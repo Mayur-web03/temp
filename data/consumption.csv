@@ -1,0 +1,3 @@
+unit_id,item_id,note
+u-a12,i-ecc,90-day series generated at runtime in src/data/seed.ts
+u-a12,i-ration,90-day series generated at runtime in src/data/seed.ts

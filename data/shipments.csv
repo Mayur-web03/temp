@@ -1,0 +1,6 @@
+id,origin,dest,item,qty,mode,status,confidence
+sh-441,u-fob,u-a12,i-ration,220,track,held,0.31
+sh-438,u-depot,u-fob,i-ecc,600,road,enroute,0.88
+sh-436,u-fob,u-c4,i-hsd,800,track,enroute,0.74
+sh-429,u-fob,u-e3,i-556,4000,track,delivered,0.91
+sh-442,u-fob,u-d9,i-plasma,12,helicopter,planned,0.62

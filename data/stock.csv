@@ -1,0 +1,7 @@
+unit_id,item_id,on_hand,safety_days
+u-a12,i-ecc,280,7
+u-a12,i-ration,410,7
+u-a12,i-plasma,18,7
+u-b7,i-ecc,1460,7
+u-fob,i-ecc,4200,7
+u-depot,i-ecc,18000,7

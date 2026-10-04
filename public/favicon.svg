@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="SenaSetu AI">
+  <rect width="32" height="32" fill="#0c0d0b"/>
+  <polygon points="2,28 10,6 16,28" fill="#eceee6"/>
+  <polygon points="17,28 24,5 31,28" fill="#eceee6"/>
+  <path d="M10 17 L10 15 Q16 9 24 15 L24 17 Q16 11 10 17 Z" fill="#eceee6"/>
+</svg>

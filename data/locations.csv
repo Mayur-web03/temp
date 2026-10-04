@@ -1,0 +1,8 @@
+id,name,code,kind,lat,lng,elevation_m,helipad
+loc-depot,Kailash Depot,DEPOT,depot,34.164,77.584,3505,true
+loc-fob,FOB Nubra,FOB-N,fob,34.558,77.549,3180,true
+loc-a12,Post ALPHA-12,A-12,post,35.118,77.472,5380,true
+loc-b7,Post BRAVO-7,B-7,post,35.021,77.638,4905,false
+loc-c4,Post CHARLIE-4,C-4,post,34.886,77.352,4450,true
+loc-d9,Post DELTA-9,D-9,post,35.176,77.714,5120,false
+loc-e3,Post ECHO-3,E-3,post,34.724,77.821,4100,true

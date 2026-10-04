@@ -1,0 +1,6 @@
+id,name,from,to,mode,distance_km,slope_deg,condition
+r-depot-fob,MSL Kailash–Nubra,loc-depot,loc-fob,road,96,6,good
+r-fob-a12,Track Nubra–ALPHA-12,loc-fob,loc-a12,track,48,18,poor
+r-fob-b7,Track Nubra–BRAVO-7,loc-fob,loc-b7,track,41,14,fair
+r-a12-b7,Cross-level ALPHA–BRAVO,loc-b7,loc-a12,cross_level,18,12,fair
+h-fob-a12,Air Nubra–ALPHA-12,loc-fob,loc-a12,helicopter,42,0,good

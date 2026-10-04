@@ -1,0 +1,13 @@
+id,name,short,category,unit,cold_chain,criticality
+i-556,5.56mm Ball,5.56mm,ammo,rds,false,0.86
+i-762,7.62mm Linked,7.62mm,ammo,rds,false,0.80
+i-ration,Ration Pack Type-III,Ration,ration,packs,false,0.95
+i-hsd,HSD Fuel,HSD,fuel,L,false,0.78
+i-trauma,Trauma Kit,Trauma,medical,kits,false,0.92
+i-ecc,Extreme Cold Clothing,ECC,clothing,sets,false,0.98
+i-batt,Li-Ion Battery Pack,Battery,power,ea,false,0.70
+i-radio,PRC Comms Set,Comms,comms,sets,false,0.88
+i-water,Potable Water,Water,water,jerrycan,false,0.90
+i-gen,Generator Spare Kit,Genset,spares,kits,false,0.55
+i-atgm,ATGM Round,ATGM,ammo,rds,false,0.84
+i-plasma,Blood Plasma,Plasma,cold_chain,units,true,0.93

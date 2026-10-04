@@ -1,0 +1,5 @@
+location_id,temp_c,wind_kmh,visibility_km,snow_prob,landslide_prob,ceiling_ft,summary
+loc-a12,-18,42,1.4,0.78,0.22,900,Snow band over the ridge
+loc-d9,-14,28,3.2,0.54,0.18,1400,Scattered snow track icing
+loc-b7,-11,22,5,0.36,0.12,2200,Cold gusty passable
+loc-fob,2,12,12,0.06,0.04,6000,Clear valley
